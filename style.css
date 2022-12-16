@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Vinyl&family=Sacramento&display=swap');
+#number-guess, #result, #history {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+#history {
+    margin-top: 16px;
+}
+  
+.banner {
+    color: #5A20CB;
+    font-size: 120px;
+    font-weight: bold;
+    font-family: 'Sacramento', cursive;
+}
+.text{
+    color: tomato;
+    font-weight: bolder;
+    font-family: 'Rubik Vinyl', cursive;
+}
